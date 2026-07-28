@@ -6,7 +6,7 @@ Real-time object detection using OpenCV's DNN module and the pre-trained **YOLOv
 
 | Input | Output |
 |---|---|
-| ![input](examples/input_dog.jpg) | ![output](examples/output_dog.jpg) |
+| ![input](input_dog.jpg) | ![output](output_dog.jpg) |
 
 Detected: **dog (87%)**, **truck (81.5%)**, **bicycle (60.6%)**
 
